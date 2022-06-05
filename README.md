@@ -3,6 +3,7 @@
 🌱 I’m currently learning Java ☕     
 🛸 I love Sci-Fi like Doctor Who  
 🧠 I'm experienced in Python, JS, and HTML
+🧡 I love the Temple Operating System
 
 | Projects                                                                | Description                                            |
 |-------------------------------------------------------------------------|--------------------------------------------------------|
