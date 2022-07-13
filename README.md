@@ -2,7 +2,7 @@
 # 👋 I'm xzntrc    
 🌱 I’m currently learning Java ☕     
 🛸 I love Sci-Fi like Doctor Who  
-🧠 I'm experienced in Python, JS, and HTML
+🧠 I'm experienced in Python, JS, and HTML<br>
 🧡 I love the Temple Operating System
 
 | Projects                                                                | Description                                            |
